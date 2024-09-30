@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Legion\\OneDrive - Phenikaa University\\l\u1EADp tr\u00ECnh\\tictactoe2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49300EBA-C47C-4A8C-B4BA-0C25D72EC4C2}|tictactoe2\\tictactoe2.csproj|c:\\users\\legion\\onedrive - phenikaa university\\l\u1EADp tr\u00ECnh\\tictactoe2\\tictactoe2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49300EBA-C47C-4A8C-B4BA-0C25D72EC4C2}|tictactoe2\\tictactoe2.csproj|solutionrelative:tictactoe2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Legion\\OneDrive - Phenikaa University\\l\u1EADp tr\u00ECnh\\chatgpt_tictactoe\\chatgpt_tictactoe\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49300EBA-C47C-4A8C-B4BA-0C25D72EC4C2}|tictactoe2\\tictactoe2.csproj|C:\\Users\\Legion\\OneDrive - Phenikaa University\\l\u1EADp tr\u00ECnh\\tictactoe2\\tictactoe2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49300EBA-C47C-4A8C-B4BA-0C25D72EC4C2}|tictactoe2\\tictactoe2.csproj|solutionrelative:tictactoe2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49300EBA-C47C-4A8C-B4BA-0C25D72EC4C2}|tictactoe2\\tictactoe2.csproj|C:\\Users\\Legion\\OneDrive - Phenikaa University\\l\u1EADp tr\u00ECnh\\tictactoe2\\tictactoe2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49300EBA-C47C-4A8C-B4BA-0C25D72EC4C2}|tictactoe2\\tictactoe2.csproj|solutionrelative:tictactoe2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive - Phenikaa University\\l\u1EADp tr\u00ECnh\\tictactoe2\\tictactoe2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "tictactoe2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive - Phenikaa University\\l\u1EADp tr\u00ECnh\\tictactoe2\\tictactoe2\\Form1.Designer.cs",
+              "RelativeToolTip": "tictactoe2\\Form1.Designer.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAawBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T01:46:05.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive - Phenikaa University\\l\u1EADp tr\u00ECnh\\chatgpt_tictactoe\\chatgpt_tictactoe\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\chatgpt_tictactoe\\chatgpt_tictactoe\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive - Phenikaa University\\l\u1EADp tr\u00ECnh\\chatgpt_tictactoe\\chatgpt_tictactoe\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\chatgpt_tictactoe\\chatgpt_tictactoe\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:41:25.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive - Phenikaa University\\l\u1EADp tr\u00ECnh\\tictactoe2\\tictactoe2\\Form1.cs",
+              "RelativeDocumentMoniker": "tictactoe2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive - Phenikaa University\\l\u1EADp tr\u00ECnh\\tictactoe2\\tictactoe2\\Form1.cs",
+              "RelativeToolTip": "tictactoe2\\Form1.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAhwLoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:38:19.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive - Phenikaa University\\l\u1EADp tr\u00ECnh\\tictactoe2\\tictactoe2\\Form1.cs",
+              "RelativeDocumentMoniker": "tictactoe2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive - Phenikaa University\\l\u1EADp tr\u00ECnh\\tictactoe2\\tictactoe2\\Form1.cs [Design]",
+              "RelativeToolTip": "tictactoe2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:36:14.167Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

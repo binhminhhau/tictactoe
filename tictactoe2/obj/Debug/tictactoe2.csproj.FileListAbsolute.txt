@@ -1,0 +1,10 @@
+C:\Users\Legion\OneDrive - Phenikaa University\lập trình\tictactoe2\tictactoe2\bin\Debug\tictactoe2.exe.config
+C:\Users\Legion\OneDrive - Phenikaa University\lập trình\tictactoe2\tictactoe2\bin\Debug\tictactoe2.exe
+C:\Users\Legion\OneDrive - Phenikaa University\lập trình\tictactoe2\tictactoe2\bin\Debug\tictactoe2.pdb
+C:\Users\Legion\OneDrive - Phenikaa University\lập trình\tictactoe2\tictactoe2\obj\Debug\tictactoe2.csproj.AssemblyReference.cache
+C:\Users\Legion\OneDrive - Phenikaa University\lập trình\tictactoe2\tictactoe2\obj\Debug\tictactoe2.Form1.resources
+C:\Users\Legion\OneDrive - Phenikaa University\lập trình\tictactoe2\tictactoe2\obj\Debug\tictactoe2.Properties.Resources.resources
+C:\Users\Legion\OneDrive - Phenikaa University\lập trình\tictactoe2\tictactoe2\obj\Debug\tictactoe2.csproj.GenerateResource.cache
+C:\Users\Legion\OneDrive - Phenikaa University\lập trình\tictactoe2\tictactoe2\obj\Debug\tictactoe2.csproj.CoreCompileInputs.cache
+C:\Users\Legion\OneDrive - Phenikaa University\lập trình\tictactoe2\tictactoe2\obj\Debug\tictactoe2.exe
+C:\Users\Legion\OneDrive - Phenikaa University\lập trình\tictactoe2\tictactoe2\obj\Debug\tictactoe2.pdb
